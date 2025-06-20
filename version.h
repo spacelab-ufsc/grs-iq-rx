@@ -3,7 +3,7 @@
  * 
  * \author Gabriel Mariano Marcelino <gabriel.mm8@gmail.com>
  * 
- * \version 0.0.0
+ * \version 0.0.1
  * 
  * \date 2025/06/17
  * 
@@ -15,7 +15,7 @@
 #ifndef VERSION_H_
 #define VERSION_H_
 
-#define GRS_IQ_RX_VERSION   "0.0.0"
+#define GRS_IQ_RX_VERSION   "0.0.1"
 #define GRS_IQ_RX_STATUS    "Development"
 
 #define GRS_IQ_RX_AUTHORS   {"Gabriel Mariano Marcelino"}
