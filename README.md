@@ -40,7 +40,7 @@ SDR IQ receiver application of the SpaceLab's ground station. This application r
 
 ### Installation on Fedora
 
-```sudo dnf install rtl-sdr czmq```
+```sudo dnf install rtl-sdr-devel czmq-devel```
 
 ## Building
 
